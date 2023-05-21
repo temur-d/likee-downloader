@@ -12,7 +12,8 @@ ___
 ## **Install**
 #### Clone repository
 ```
-git clone https://github.com/temur-d/likee-downloader.git
+git clone https://github.com/temur-d/likee_downloader.git
+cd likee_downloader
 ```
 #### Install modules using pip
 ```
